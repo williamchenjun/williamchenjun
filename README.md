@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamchenjun
-- 👀 I'm interested in data analysis, machine learning, bot programming and web design.
-- 🌱 I’m currently learning **PHP**, **JavaScript** and **SQL**.
-- 💞️ I'm currently studying MSc Data Science at KCL.
+- 👀 My main interests are data analysis/science, ML/DL/AI, bot programming and web design.
+- 🌱 I’m currently learning **PHP** and **SQL**.
+- 💞️ I'm studying MSc Data Science at KCL.
 - 🌊 I mainly use **Python**!
-- 📫 You can send me an [email](https://mailto:williamchenjun@hotmail.com).
+- 📫 Send me an [email](https://mailto:williamchenjun@hotmail.com)!
