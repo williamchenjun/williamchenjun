@@ -2,8 +2,8 @@
 
 <div align="center">
 <figure>
-<img src="https://user-images.githubusercontent.com/79821802/222799355-25223975-4d78-470c-8b20-3be157032ac9.gif" width="400"/><br>
-<figcaption><sub><sup><b>Figure</b>: Joel and Ellie (characters from "<a href="https://www.imdb.com/title/tt3581920/" alt="IMDb">The Last of Us</a>") riding into the sunset.</sup></sub></figcaption>
+<img src="https://user-images.githubusercontent.com/79821802/222799355-25223975-4d78-470c-8b20-3be157032ac9.gif" width="400" alt="Joel and Ellie, characters from the HBO series the last of us, riding into the sunset on a horse."/><br>
+<figcaption><sub><sup><b>Figure</b>: Joel and Ellie (characters from "<a href="https://www.imdb.com/title/tt3581920/">The Last of Us</a>") riding into the sunset.</sup></sub></figcaption>
 <figure>
 </div>
 <br>
