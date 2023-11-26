@@ -19,7 +19,7 @@ I don't have a strong academic background in programming or computer science. Th
 I haven't had the chance to work on any big individual projects outside of the academic environment yet. However, some of the projects I have worked on are:
 - :busts_in_silhouette: U.S. 2016 Election Statistics (BSc)
 - :bust_in_silhouette: Random Matrix Theory and The Riemann Hypothesis (BSc)
-- :bust_in_silhouette: Disproportionality in Stop and Search Action in London (MSc - In progress)
+- :bust_in_silhouette: Disproportionality in Stop and Search Action in London (MSc)
 
 I am always open to new acquaintances so feel free to contact me on the socials linked on my profile! 
 
