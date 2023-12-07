@@ -8,7 +8,7 @@
 </div>
 <br>
 
-My name is William Chen. I am a postgraduate student at King's College London currently studying Data Science. I have a Bachelor's degree in Mathematics (2019-2022)[^undergradprize]. I like exploring different variety of fields when it comes to programming, however, I mainly deal with data.[^disclaimer]
+My name is William Chen. I am a Data Scientist based in Italy. I have a Bachelor's degree in Mathematics (2019-2022)[^undergradprize] and a Master's degree in Data Science (2022-2023). I like exploring different variety of fields when it comes to programming, however, I mainly deal with data.[^disclaimer]
 
 ### :computer: Programming Languages
 
