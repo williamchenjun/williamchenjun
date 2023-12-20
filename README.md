@@ -21,7 +21,7 @@ I haven't had the chance to work on any big individual projects outside of the a
 - :bust_in_silhouette: Random Matrix Theory and The Riemann Hypothesis (BSc)
 - :bust_in_silhouette: Disproportionality in Stop and Search Action in London (MSc)
 
-I am always open to new acquaintances or job opportunities so feel free to contact me on the socials linked on my profile! 
+I am always open to new acquaintances or job opportunities so feel free to contact me on the socials linked on my profile or visit my [contacts page](https://williamchenjun.github.io/contacts/)! 
 
 [^undergradprize]: [BSc Mathematics UG Prize](http://www.sussex.ac.uk/maths/ugstudy/ugprizes)
 [^disclaimer]: While I am decent at programming, I have no expertise in using GitHub. Thus, excuse the messy repositories.
