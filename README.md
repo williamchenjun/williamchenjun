@@ -16,7 +16,7 @@ I don't have a strong academic background in programming or computer science. I 
 
 ### :file_folder: Projects
 
-I haven't had the chance to work on any big individual projects outside of the academic environment yet. However, some of the projects I have worked on are:
+I haven't had the chance to work on any big individual projects outside of the academic environment yet. However, some of the [projects](https://williamchenjun.github.io/projects/) I have worked on are:
 - :busts_in_silhouette: U.S. 2016 Election Statistics (BSc)
 - :bust_in_silhouette: Random Matrix Theory and The Riemann Hypothesis (BSc)
 - :bust_in_silhouette: Disproportionality in Stop and Search Action in London (MSc)
