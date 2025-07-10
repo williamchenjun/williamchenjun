@@ -12,7 +12,7 @@ My name is William Chen. I am a Data Scientist based in Italy. I have a Bachelor
 
 ### :computer: Programming Languages
 
-I don't have a strong academic background in programming or computer science. I am mostly self-taught, and have taken a few courses on JavaScript, Python, R, and SQL. But I mainly program in Python and JavaScript. I am also learning a different range of languages such as C++, PHP, and Julia.
+I spend most of my time programming in SQL, JavaScript and Python.
 
 ### :file_folder: Projects
 
