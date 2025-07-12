@@ -2,7 +2,7 @@
 
 <br>
 
-My name is William Chen. I am Jr. Business Analyst intern at MESA s.r.l.. I have a Bachelor's degree in Mathematics (2019-2022)[^undergradprize] and a Master's degree in Data Science (2022-2023). It's hard to define what I like specifically. I mainly work on data handling and analysis.[^disclaimer]
+My name is William Chen. I am a Jr. Business Analyst intern at MESA s.r.l.. I have a Bachelor's degree in Mathematics (2019-2022)[^undergradprize] and a Master's degree in Data Science (2022-2023). It's hard to define what I like specifically. I mainly work on data handling and analysis.[^disclaimer]
 
 ### :computer: Programming Languages
 
